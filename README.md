@@ -50,6 +50,9 @@ Progress is streamed live to the UI over SSE.
 ## Planned stack
 HTML/CSS/vanilla JS frontend, Go `net/http` backend, REST/JSON, SSE, OpenRouter + Google API for model access.
 
+## Easter egg: Greg
+Greg is a joke agent. He sits on the side of the AARS pipeline and drops comments on what the council is doing. He never touches the results. Born from a voice-chat glitch, he is a mascot for every STT/TTS mishap.
+
 ## Roadmap
 | Phase | Scope |
 |-------|-------|
